@@ -11,7 +11,7 @@ A web-based temporary email generator that allows users to create, refresh, and 
 - **Menu Options**: Access additional information, such as "About", "Developer", and "Version", through a fullscreen menu.
 
 ## Demo
-Check out the live demo here: [Temp Mail Demo](https://mowhn.github.io/Temp-mail/)
+Check out the live demo here: [Temp Mail](https://tempmail100.com)
 
 ## Technologies Used
 - **HTML5**
